@@ -1393,13 +1393,13 @@ files = [
 
 [[package]]
 name = "specklepy"
-version = "2.20.0"
+version = "2.21.2"
 description = "The Python SDK for Speckle 2.0"
 optional = false
-python-versions = "<4.0,>=3.8.0"
+python-versions = "<4.0,>=3.9.0"
 files = [
-    {file = "specklepy-2.20.0-py3-none-any.whl", hash = "sha256:e85b25ad3b390849f7091d367ebd2c9187997e4f8643e1dc4e9f0db678d7492b"},
-    {file = "specklepy-2.20.0.tar.gz", hash = "sha256:aab1e746fe9baf3acc8aba9534761df19ab4897dad1477f98ab89b5deeebd39a"},
+    {file = "specklepy-2.21.2-py3-none-any.whl", hash = "sha256:bb34bb0de56f8731f88ac9a1ada4cddfbf2d71e52d4e9cce07bab95c1dac2b2d"},
+    {file = "specklepy-2.21.2.tar.gz", hash = "sha256:ba44bb9167ced32e52ba7e5717d0b1d0ece1aa23ca02243ce75f0eaba08e8107"},
 ]
 
 [package.dependencies]
